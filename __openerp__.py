@@ -22,13 +22,13 @@
 {
     'name': 'Currency Lookup',
     'version': '1.0',
-    'author': 'Elmatica AS',
-    'website': 'http://www.tinderbox.no',
+    'author': 'Bringsvor Consulting AS',
+    'website': 'http://www.bringsvor.com',
     'category': 'Utilities',
     'description': """
     Utility to do currency conversion by looking up the currency date tables of Odoo.
 
-    Written by Tinderbox AS and Bringsvor Consulting AS.
+    Written by Bringsvor Consulting AS.
 """,
     'depends': ['base', 'account'],
     'data': [
